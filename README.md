@@ -23,7 +23,7 @@ I'm a senior at UF's Warrington College of Business, graduating August 2026, and
 - Developing online courses and workshops to increase faculty adoption of EdTech tools
 - Contributing to faculty development programs and the UFIT CITT Search Committee
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Programming Languages:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
