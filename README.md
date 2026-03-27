@@ -1,4 +1,4 @@
-# Hi, I'm Kaiya Cooper!
+# Hi, I'm Kaiya!
 
 <div align="left">
 
