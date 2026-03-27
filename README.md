@@ -1,6 +1,6 @@
 # Hi, I'm Kaiya Cooper!
 
-<div align="center">
+<div align="left">
 
 [![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaiyacooper)
 
