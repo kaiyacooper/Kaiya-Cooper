@@ -1,8 +1,7 @@
 # Hi, I'm Kaiya Cooper!
 
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=kaiyacooper&color=blue&style=flat)
+
 [![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaiyacooper)
 
 </div>
