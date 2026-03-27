@@ -75,6 +75,6 @@ A smart closet system integrating Python, APIs, and IoT to recommend outfits bas
 - Accessible Online Environments - UF
 - Introduction to Continuous Improvement - UF
 
-## 📫 Let's Connect!
+## Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaiyacooper)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kaiyacooper@ufl.edu)
