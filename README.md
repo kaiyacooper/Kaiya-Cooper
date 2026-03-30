@@ -11,7 +11,7 @@
 
 I'm a senior at UF's Warrington College of Business, graduating August 2026, and current intern at UFIT CITT, specializing in higher EdTech, instructional design, and AI initiatives. Passionate about leveraging technology to drive innovative, real-world solutions.
 
-- **Currently working on**: AI-powered accessibility tools and educational technology innovations at UFIT CITT
+- **Currently working on**: AI-powered accessibility tools, educational technology innovations at UFIT CITT, and ADA accessibility compliance in higher education
 - **Learning**: Database management, SQL, AI/ML applications, business analytics, and accessibility in technology 
 - **Pursuing**: Bachelors of Science in Information Systems from UF's Warrington College of Business and AI Fundamentals and Applications Certificate from UF's Herbert Wertheim College of Engineering
 - **Interested in**: Data Analytics, Innovative Solutions, AI/ML, and Business Analysis
