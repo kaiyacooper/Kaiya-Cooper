@@ -9,15 +9,15 @@
 ## About Me
 **4th Year Information Systems Major @ University of Florida | Instructional Design Intern @ The University of Florida Information Technology CITT**
 
-I'm a senior at UF's Warrington College of Business, graduating August 2026, and current intern at UFIT CITT, specializing in higher EdTech, instructional design, and AI initiatives. Passionate about leveraging technology to drive innovative, real-world solutions.
+Passionate about leveraging technology to drive innovative, real-world solutions. As a senior at The University of Florida, I am studying information systems and will be graduating in August 2026 with a certificate in Artificial Intelligence Fundamentals and Applications. Currently, I am working for UFIT CITT as a Student Instructional Support Assistant specializing in higher EdTech, instructional design, and AI initiatives. Additionally, I am working towards completing the CompTIA A+, Google IT Support Professional Certificate, AWS Certified Cloud Practitioner and AI Practitioner certifications.
 
-- **Currently working on**: AI-powered accessibility tools, educational technology innovations at UFIT CITT, and ADA accessibility compliance in higher education
+- **Currently working on**: AI-powered accessibility tools, educational technology innovations at UFIT CITT, ADA accessibility compliance in higher education, CompTIA A+ Certification, Google IT Support Professional Certificate, AWS Certified Cloud Practitioner Certificate and AWS AI Practitioner Certificate
 - **Learning**: Database management, SQL, AI/ML applications, business analytics, and accessibility in technology 
 - **Pursuing**: Bachelors of Science in Information Systems from UF's Warrington College of Business and AI Fundamentals and Applications Certificate from UF's Herbert Wertheim College of Engineering
 - **Interested in**: Data Analytics, Innovative Solutions, AI/ML, and Business Analysis
 
 ## Current Role
-**Instructional Design Intern** @ UF Information Technology (UFIT CITT)
+**Student Instructional Support Assistant** @ UF Information Technology (UFIT CITT)
 - Experimenting with educational technologies focused on accessibility and inclusivity
 - Maintaing web content with attention to ADA compliance and UF web standards
 - Developing online courses and workshops to increase faculty adoption of EdTech tools
