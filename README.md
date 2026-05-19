@@ -7,7 +7,7 @@
 </div>
 
 ## About Me
-**4th Year Information Systems Major @ University of Florida | Instructional Design Intern @ The University of Florida Information Technology CITT**
+**4th Year Information Systems Major @ University of Florida | Student Instrcutional Support Assistant @ The University of Florida Information Technology CITT**
 
 Passionate about leveraging technology to drive innovative, real-world solutions. As a senior at The University of Florida, I am studying information systems and will be graduating in August 2026 with a certificate in Artificial Intelligence Fundamentals and Applications. Currently, I am working for UFIT CITT as a Student Instructional Support Assistant specializing in higher EdTech, instructional design, and AI initiatives. Additionally, I am working towards completing the CompTIA A+, Google IT Support Professional Certificate, AWS Certified Cloud Practitioner and AI Practitioner certifications.
 
