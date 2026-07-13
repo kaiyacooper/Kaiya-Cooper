@@ -7,7 +7,7 @@
 </div>
 
 ## About Me
-**4th Year Information Systems Major @ University of Florida | Student Instrcutional Support Assistant @ The University of Florida Information Technology CITT**
+**4th Year Information Systems Major @ University of Florida | Student Instrcutional Support Specialist @ The University of Florida Information Technology CITT**
 
 Passionate about leveraging technology to drive innovative, real-world solutions. As a senior at The University of Florida, I am studying information systems and will be graduating in August 2026 with a certificate in Artificial Intelligence Fundamentals and Applications. Currently, I am working for UFIT CITT as a Student Instructional Support Assistant specializing in higher EdTech, instructional design, and AI initiatives. Additionally, I am working towards completing the CompTIA A+, Google IT Support Professional Certificate, AWS Certified Cloud Practitioner and AI Practitioner certifications.
 
@@ -17,7 +17,7 @@ Passionate about leveraging technology to drive innovative, real-world solutions
 - **Interested in**: Data Analytics, Innovative Solutions, AI/ML, and Business Analysis
 
 ## Current Role
-**Student Instructional Support Assistant** @ UF Information Technology (UFIT CITT)
+**Student Instructional Support Specailist** @ UF Information Technology (UFIT CITT)
 - Experimenting with educational technologies focused on accessibility and inclusivity
 - Maintaing web content with attention to ADA compliance and UF web standards
 - Developing online courses and workshops to increase faculty adoption of EdTech tools
@@ -53,8 +53,14 @@ An accessible web application that automatically generates alternative text desc
 - **Tech:** JavaScript, API Integration, OpenAI, Accessibility Tools
 
 ### University Tool-Review Automation
-Designed an automation workflow using Google Apps Script that pulls data from public APIs and populates structured tool-review templates. Leverages advanced prompt engineering to streamline the Tool Review team's workflow.
-- **Tech:** Google Apps Script, OpenAI API, Prompt Engineering, Automation
+Designed an automation workflow that pulls data from public APIs and populates structured tool-review templates. Leverages advanced prompt engineering to streamline the Tool Review team's workflow.
+- **Tech:** OpenAI API, Prompt Engineering, Automation
+
+### Studdely
+Architected a Manifest V3 Chrome extension with a content script injection system, a Supabase Edge Function backend serving as a secure AI proxy, and UF's NaviGator AI platform for FERPA-compliant on-premise language model inference. Student data never leaves UF's infrastructure. Built a full UI system including five color themes, an animated frog mascot (Studd) with custom moods, and a customizable effective daily study limit setting.  
+
+- **Role:** Co-founder & CTO — sole engineer on all frontend, backend, and infrastructure work.
+- **Tech:** Cascading Style Sheets (CSS), JavaScript, API, Chrome Extensions, Supabase, User Experience Design (UED)
 
 ### OutfIQ - Smart Closet System
 A smart closet system integrating Python, APIs, and IoT to recommend outfits based on live local weather data. Matches real-time weather station data with a virtual wardrobe.
